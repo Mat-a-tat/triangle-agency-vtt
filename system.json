@@ -38,7 +38,7 @@
   "packFolders": [],
   "socket": false,
   "manifest": "https://mat-a-tat.github.io/triangle-agency-vtt/system.json",
-  "download": "https://github.com/Mat-a-tat/triangle-agency-vtt/archive/refs/tags/alpha.zip",
+  "download": "https://github.com/Mat-a-tat/triangle-agency-vtt/archive/refs/tags/alpha_1.01.zip",
   "background": "systems/triangle/assets/anvil-impact.png",
   "gridDistance": 5,
   "gridUnits": "ft",

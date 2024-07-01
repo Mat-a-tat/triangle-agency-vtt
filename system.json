@@ -1,17 +1,17 @@
 {
   "id": "triangle",
   "title": "triangle",
-  "description": "The triangle system for FoundryVTT!",
+  "description": "Contain your Reality and retain Yogurt Privalages!",
   "authors": [
     {
       "name": "Mathew Vondersaar",
       "discord": "mattatata"
     }
   ],
-  "url": "Replace this with a link to your public repository",
+  "url": "https://github.com/Mat-a-tat/triangle-agency-vtt",
   "license": "LICENSE.txt",
   "readme": "README.md",
-  "bugs": "Replace this with a link to file issues or tickets",
+  "bugs": "https://github.com/Mat-a-tat/triangle-agency-vtt/issues",
   "changelog": "CHANGELOG.md",
   "media": [
     {
